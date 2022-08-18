@@ -1,4 +1,5 @@
 # CMPG-323-Overview-35030755
+This in an overview page for the Project for CMPG 323 where we are enhancing skills across different concepts,tools and technology stacks 
 
 ## What repositories will be used
 There will be multiple submodules used to manage different git repositories under the same root
