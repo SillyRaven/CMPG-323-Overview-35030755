@@ -10,7 +10,7 @@ My branching strategy is to have a Production branch(main branch) which then has
 Hot fix branches will also be added as necessary to patch and fix odd bugs and to add extra functionality to the already running Production product so that a new product doens't get published with every new iteration of code or changes.
 The branch strategy will loosely look like this image
 
-    ![alt text](https://docs.microsoft.com/en-us/azure/devops/repos/git/media/branching-guidance/featurebranching.png?view=azure-devops)
+![alt text](https://docs.microsoft.com/en-us/azure/devops/repos/git/media/branching-guidance/featurebranching.png?view=azure-devops)
 ## Built with
  This section will get populated as more information about project is known.
     ASP.Net
